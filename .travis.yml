@@ -1,5 +1,9 @@
 language: python
+
+# current default Python on Travis CI
 python: 
   - "3.6" 
+
+# command to run tests
 script: 
-  - test: pytest
+  - pytest
