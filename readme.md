@@ -25,7 +25,7 @@ This little project is also using _GITHUB_ & _TRAVIS CI_.
 ### RUN DEVELOPMENT
 To run the project you have to open your python IDLE and copy past the code and run it
 Or if you are using VS Code (Visual Studio Code) :
--     In your console press ```Ctrl```+```Shift```+```P``` (Windows)
+-     In your console press ```Ctrl``` + ```Shift``` + ```P``` (Windows)
 -     Change the Command property from "_tsc_" (TypeScript) to "_Python_"
 -     Change showOutput from "_silent_" to "_Always_"
 -     Change args (Arguments) from ["Helloworld.ts"] to ["${file}"] (filename)
