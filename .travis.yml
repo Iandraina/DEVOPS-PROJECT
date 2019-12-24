@@ -1,9 +1,7 @@
 language: python
 
 # current default Python on Travis CI
-python: 
-  - "2.7"
-  - "3.5"
+python:
   - "3.6"
 
 before_install:

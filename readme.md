@@ -4,11 +4,11 @@
 This is an open source project that implements a simple calculator using _python_ and _pytest_ for _unit testing_ without a user interface.
 This little project is also using _GITHUB_ & _TRAVIS CI_.
 
-## GITHUB REPOSITORY 
+## GITHUB REPOSITORY FOR CLONING THE PROJECT
 - Clone the project with the following command line :
    ```$ git clone https://github.com/Iandraina/DEVOPS-PROJECT.git```
 
-## INSTRUCTION
+## INSTRUCTIONS
 ### TOOLS
 - You need to have python on your computer : 
   [python installation](https://www.python.org/downloads/windows/)
@@ -22,7 +22,7 @@ This little project is also using _GITHUB_ & _TRAVIS CI_.
 ### RUN BUILD
 - The build we run automatically wen you launch the project, because this project's repository is build within _Travis CI_.
 
-### RUN INSTRUCTION
+### RUN DEVELOPMENT
 To run the project you have to open your python IDLE and copy past the code and run it
 Or if you are using VS Code (Visual Studio Code) :
 -     In your console press ```Ctrl```+```Shift```+```P``` (Windows)
