@@ -18,12 +18,12 @@ This little project is also using _GITHUB_ & _TRAVIS CI_.
 ### RUN INSTRUCTION
 To run the project you have to open your python IDLE and copy past the code and run it
 Or if you are using VS Code (Visual Studio Code) :
-    1- In your console press ```Ctrl```+```Shift```+```P``` (Windows)
-    2- Change the Command property from "_tsc_" (TypeScript) to "_Python_"
-    3- Change showOutput from "_silent_" to "_Always_"
-    4- Change args (Arguments) from ["Helloworld.ts"] to ["${file}"] (filename)
-    5- Delete the last property problemMatcher
-    6- Save the changes made
+-    1- In your console press ```Ctrl```+```Shift```+```P``` (Windows)
+-    2- Change the Command property from "_tsc_" (TypeScript) to "_Python_"
+-    3- Change showOutput from "_silent_" to "_Always_"
+-    4- Change args (Arguments) from ["Helloworld.ts"] to ["${file}"] (filename)
+-    5- Delete the last property problemMatcher
+-    6- Save the changes made
 
 
 ### RUN TEST 
