@@ -10,10 +10,6 @@ before_install:
   - pip install -U pytest
   - pip install codecov
 
-# install package + test dependencies
-install:
-  - pip install ".[test]" .
-
 # command to run tests
 script: 
   - pytest
