@@ -34,5 +34,5 @@ To run the tests you have to open your terminal in your file directory and type 
 
 
 ## COLLABORATORS
-- RAVELOMANANA Iandraina
+- _RAVELOMANANA_ _Iandraina_
 
